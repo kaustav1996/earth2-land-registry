@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/earth2-land-registry/precache-manifest.1fa64e5ed746b2b5bda1979d3b056e36.js"
+  "/earth2-land-registry/precache-manifest.4831d485a04c33b0f728ccdc1bc1d83e.js"
 );
 
 workbox.clientsClaim();
